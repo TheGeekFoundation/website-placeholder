@@ -307,9 +307,19 @@ body {
     max-width: 500px;
 }
 
-p  {
+p,
+small {
     font-family: 'Droid Sans', sans-serif;
     line-height: 24px;
+}
+
+a {
+    color: #EF6D55;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #CE2028;
 }
 
 h1,
